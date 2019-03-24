@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tomis
+ *
+ */
+module StatePattern {
+}
